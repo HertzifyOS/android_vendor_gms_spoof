@@ -13,5 +13,4 @@
 # limitations under the License.
 
 PRODUCT_PACKAGES += \
-    CertifiedKeyboxOverlay \
-    CertifiedPropsOverlay
+    CertifiedKeyboxOverlay
